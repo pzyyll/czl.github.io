@@ -35,8 +35,8 @@ share:
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
+    #- text: My Projects
+    #  url: /projects/
 
 url: "https://pzyyll.github.io"
 baseurl: ""
@@ -54,7 +54,3 @@ compress_html:
   endings: all
   ignore:
     envs: ['development']
-
-sass:
-  sass_dir: _sass
-  style: compressed
