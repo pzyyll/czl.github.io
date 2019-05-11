@@ -1,4 +1,4 @@
-title: Stack Problems
+title: 更新中...
 description: My Personal Stack Problems
 author: CaiZhiLi
 github: https://github.com/pzyyll
@@ -16,20 +16,21 @@ collections:
     permalink: /project/:path/
 
 social:
+    - icon: fa-github
+      link: "https://github.com/pzyyll"
     - icon: fa-facebook
       link: "#"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/CChaloy"
     - icon: fa-linkedin
       link: "#"
     - icon: fa-stack-exchange
       link: "#"
-    - icon: fa-github
-      link: "https://github.com/pzyyll"
+
 
 share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+  twitter_username: CChaloy
+  fb_appid: xxxx
 
 urls:
     - text: About Me

@@ -6,4 +6,4 @@ permalink: /about/
 
 I'm Programmer for C++/Python
 
-email: pzyyll[at]gmail.com
+email: pzyyll@gmail.com
