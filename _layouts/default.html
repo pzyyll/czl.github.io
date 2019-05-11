@@ -148,6 +148,11 @@ layout: compress
                 <li><a href="/category/{{ category | first }}">{{ category | first }}</a>({{ category | last | size }})</li>
               </ul>
             {% endfor %}
+            {% for category in site.categories %}
+            <ul>
+              <li><a href="/category/{{ category | first }}">{{ category | first }}</a>({{ category | last | size }})</li>
+            </ul>
+            {% endfor %}
           </ul>
         </div>
         <!-- end /.fixed-condition -->
