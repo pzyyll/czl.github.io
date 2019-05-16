@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for C++/Python
+@todo ...
 
 email: pzyyll@gmail.com
